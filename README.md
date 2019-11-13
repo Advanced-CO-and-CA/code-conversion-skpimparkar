@@ -3,6 +3,9 @@
 
 ## Code-Conversion (Submission Deadline:3/11/19)
 
+NOTE: The submission got delayed due to system crash and wiping out entire hard disc for security.
+Got the laptop fixed from IT dept. and re-done all the exercises. Issue was reported to Prof.
+
 ### Part 1
 Convert the contents of a given **A_DIGIT** variable from an ASCII character to
 a hexadecimal digit and store the result in **H_DIGIT**. Assume that **A_DIGIT**
